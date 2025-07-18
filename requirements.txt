@@ -2,4 +2,4 @@ flask
 cas_client
 requests>=2.20.0
 apscheduler
-uwsgi==2.0.21
+uwsgi>=2.0.21
